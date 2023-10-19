@@ -1,0 +1,3 @@
+192.168.19.8/21
+
+Bloco de endereço tamanho : 21, total de bits é 32 (32-21) sobrando 11 bits, como é binário, fazemos 2 elevado a 11, sendo assim, 2048 é o tamanho do bloco de endereço
